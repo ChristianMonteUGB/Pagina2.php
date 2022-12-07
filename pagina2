@@ -1,7 +1,7 @@
 <?php
-$nombre = $_POST["nombre"];
-$apellido = $_POST["apellido"];
-$email = $_POST["email"]; 
+$nombre = $_POST["christian"];
+$apellido = $_POST["Montenegro"];
+$email = $_POST["cristian.alex24"]; 
 echo "Hola " . $nombre . " " . $apellido . ", <br /> 
 Te has registrado con el siguiente correo electrónico: " . $email . ".";
 ?>
